@@ -1,5 +1,5 @@
 image:
-  repository: tonoid/myproject-api
+  repository: nls44/myproject-api
   tag: "production-cb22b5f" # 2022-11-16T23:28:41Z https://circleci.com/gh/nls44/myproject-api/4
 
 containerPort: 80
