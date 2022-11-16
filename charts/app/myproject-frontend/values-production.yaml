@@ -1,5 +1,5 @@
 image:
-  repository: tonoid/myproject-frontend
+  repository: nls44/myproject-frontend
   tag: "production-362bfa3" # 2022-11-16T23:32:06Z https://circleci.com/gh/nls44/myproject-frontend/4
 
 containerPort: 80
